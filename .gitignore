@@ -1,0 +1,9 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Exported reports (generated at runtime)
+exports/
+
+# Database files (this project does not use a database; kept as a safety net)
+*.db
